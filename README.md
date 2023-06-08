@@ -30,6 +30,12 @@ Thank you for visiting my profile. Feel free to reach out to me if you have any 
   <img src="https://img.shields.io/badge/-And many more-inactive?style=flat-square&logo=more&logoColor=white" height="32" />
 </p>
 
+<h1 align="center">Support my work</h1>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/deexno" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+  <a href="https://www.paypal.com/paypalme/deexno" target="_blank"><img src="https://img.shields.io/badge/Support me-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="41" /></a>
+</p>
+
 <h1 align="center">Follow Me</h1>
 <p align='center'>
   <a href="https://blog.deexno.com/"><img height="30" src="https://simpleicons.org/icons/blogger.svg"></a>&nbsp;&nbsp;
