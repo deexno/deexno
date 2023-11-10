@@ -13,6 +13,7 @@ Thank you for visiting my profile. Feel free to reach out to me if you have any 
   <img src="https://img.shields.io/badge/-C Sharp-blueviolet?style=flat-square&logo=Csharp&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/-C++-blue?style=flat-square&logo=Cplusplus&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/-Assembly-orange?style=flat-square&logo=assembly&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/-Kubernetes-blue?style=flat-square&logo=kubernetes&logoColor=white" height="32" />
   <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white" height="32" />
